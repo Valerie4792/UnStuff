@@ -1,0 +1,9 @@
+to create a new react native project in terminal start with:
+    
+    npx create-expo-app --template
+    npm start
+    i open ios simulator
+
+    When creating a page import
+    -rsf
+    -rnss
